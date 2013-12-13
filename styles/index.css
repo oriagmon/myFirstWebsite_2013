@@ -9,3 +9,10 @@
     text-align:center; 
     margin:0 auto;
 }
+
+#divtemp
+{
+    font-size: xx-large; 
+    font-weight: bold; 
+    color: blue;
+}
