@@ -1,0 +1,11 @@
+﻿body 
+{
+    background-image: url('../images/mywebsite_small.png');
+    background-repeat: no-repeat;
+}
+
+#centerdiv
+{
+    text-align:center; 
+    margin:0 auto;
+}
